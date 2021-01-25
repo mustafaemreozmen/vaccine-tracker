@@ -1,0 +1,22 @@
+{
+  "name": "turkey-vaccine-tracker",
+  "version": "1.0.0",
+  "description": "Republic of Turkey Vachine Information Platform's scrapper for daily numbers of vaccination in Turkey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vaccine",
+    "information",
+    "turkey",
+    "health",
+    "ministry"
+  ],
+  "author": "Mustafa Emre Ozmen",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.1",
+    "jsdom": "^16.4.0"
+  }
+}
